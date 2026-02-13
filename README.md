@@ -39,13 +39,14 @@ Currently focusing on:
 
 ### 📊 **Productivity Metrics**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adiljeddiradja&show_icons=true&theme=algolia&hide_border=true&bg_color=050f2c&count_private=true" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiljeddiradja&layout=compact&theme=algolia&hide_border=true&bg_color=050f2c" height="150" alt="languages" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adiljeddiradja&theme=algolia&hide_border=true&background=050f2c" alt="streak" />
-</div>
+### 📊 Productivity Metrics
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adiljeddiradja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Adil's Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiljeddiradja&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adiljeddiradja&theme=tokyonight&hide_border=true" alt="Adil's Streak" />
+</div>
 ---
 
 ### 📫 **Let's Connect**
