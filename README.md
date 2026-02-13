@@ -42,8 +42,8 @@ Currently focusing on:
 
 <div align="center">
   <a href="https://github.com/adiljeddiradja">
-  <img src="https://github-readme-stats.vercel.app/api?username=adiljeddiradja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiljeddiradja&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=adiljeddiradja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiljeddiradja&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages" />
   </a>
   
   <br/>
@@ -54,8 +54,6 @@ Currently focusing on:
   
   <img src="https://github-profile-trophy.vercel.app/?username=adiljeddiradja&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="trophy" />
 </div>
-
----
 
 ### 📫 **Let's Connect**
 
